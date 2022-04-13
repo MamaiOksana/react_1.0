@@ -1,3 +1,4 @@
+import  React from 'react'
 // const Actors = (props) =>{
 //     console.log(props);
 //     return (
